@@ -1,13 +1,20 @@
 [
   {
-    "id": "nf-mantle", 
+    "id": "nf-mantle",
     "releases": [
       {
         "version": "0.1.0",
-        "date": "2021-07-25T11:54:13.481+02:00",
         "url": "https://github.com/nextflow-io/nf-hello/releases/download/0.1.0/nf-hello-0.1.0.zip",
-        "requires": ">=21.04.0",
-        "sha512sum": "7abcf988117f5148622609750b30ae35b1dcaa4f532f205f160c64ec215caafb6fa8bccefc8a90cc9dba60fc68f285769c9e897808b9d925313fc375952e4547"
+        "date": "2021-07-25T11:54:13.481+02:00",
+        "sha512sum": "7abcf988117f5148622609750b30ae35b1dcaa4f532f205f160c64ec215caafb6fa8bccefc8a90cc9dba60fc68f285769c9e897808b9d925313fc375952e4547",
+        "requires": ">=21.04.0"
+      },
+      {
+        "version": "1.0.1",
+        "url": "https://github.com/test-mantle-org/nf-mantle/releases/download/1.0.1/nf-mantle-1.0.1.zip",
+        "date": "2024-01-15T18:53:30.417-08:00",
+        "sha512sum": "6559c0005ecb50d6201f049b7bb37998c79e339fc9040c718480f9203fe0ab89dd84a6599adc8ac7e7b67216b027ed9505e63255d6ace657042e1c204e80a99f",
+        "requires": ">=22.10.0"
       }
     ]
   }
