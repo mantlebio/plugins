@@ -22,6 +22,13 @@
         "date": "2024-01-26T16:36:27.2067-08:00",
         "sha512sum": "270433ec612234db8726f9c98c087dbb7ce827f0e6f500a59544922d63b696e9a53fa854d95d101252141196b8bad1172f9a11e2be7d9611f1f2272625f377e0",
         "requires": ">=22.10.0"
+      },
+      {
+        "version": "1.0.10",
+        "url": "https://github.com/mantlebio/nf-mantle/releases/download/1.0.10/nf-mantle-1.0.10.zip",
+        "date": "2024-01-30T17:29:40.549048-08:00",
+        "sha512sum": "4d36aeba4c72854a4804c593c1a5ccd98614d6a1d97327304bab1afeff7b3e33a7236fc8804c4e25e8eca114cede10956a8d4e80d40d749f3e1e7c792c1f17c8",
+        "requires": ">=22.10.0"
       }
     ]
   }
